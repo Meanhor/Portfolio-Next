@@ -1,6 +1,9 @@
+import { useState } from "react";
+import { IoCopyOutline } from "react-icons/io5";
 import { cn } from "@/utils/cn";
 import { BackgroundGradientAnimation } from "./GradentBg";
 import { GlobeDemo } from "./GridGlobe";
+import Lottie from "react-lottie";
 
 export const BentoGrid = ({
   className,

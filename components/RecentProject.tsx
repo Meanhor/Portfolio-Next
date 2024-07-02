@@ -5,7 +5,7 @@ import { FaLocationArrow } from "react-icons/fa6";
 
 function RecentProject() {
   return (
-    <div className="pt-24">
+    <div className="pt-24" id="projects">
       <h1 className="heading pb-14">
         A small Selection of <span className="text-purple">Recent Project</span>
       </h1>
