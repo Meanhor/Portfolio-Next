@@ -6,8 +6,8 @@ const Clients = () => {
   return (
     <div className="pt-24" id="testimonials">
       <h1 className="heading pb-14">
-        Kind words form
-        <span className="text-purple">Satisfied Clients</span>
+        Kind words from 
+        <span className="text-purple"> Professor</span>
       </h1>
       <div className="flex flex-col items-center">
           <InfiniteMovingCards
