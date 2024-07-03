@@ -17,12 +17,12 @@ const Footer = () => {
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw] ">
-          Ready to take <span className="text-purple">your</span> digital
-          presence to the next level?
+          I'm ready to <span className="text-purple">help you elevate </span> your digital presence.
+                      
+
         </h1>
         <p className="text-white-200 md:mt-10 my-5">
-          Reach out to me today and let&apo; s dicuss how I can help you achieve
-          your goals.
+        Contact me today,  and let's discuss how I can assist you in achieving your goals. 
         </p>
 
         <a href="mailto:meanhor1904@gmail.com">
@@ -36,7 +36,7 @@ const Footer = () => {
 
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Copy right © 2024 Meanhor
+          Copyright © 2024 Meanhor
         </p>
         <div className="flex items-center md:gap-3 gap-6">
           {socialMedia.map((profile) => (

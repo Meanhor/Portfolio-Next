@@ -6,7 +6,7 @@ import { FaLocationArrow } from "react-icons/fa6";
 
 const Hero = () => {
   return (
-    <div className="pb-20 pt-36">
+    <div className="pb-36 pt-36">
       <div>
         <Spotlight
           className="-top-40 -left-10 md:-left-32 md:-top-20 h-screen"
@@ -38,26 +38,26 @@ const Hero = () => {
           items-center justify-center"
           >
             <h2
-              className="uppercase tracking-widest text-xs text-center 
+              className="uppercase tracking-widest text-xl text-center 
             text-blue-100 max-w-80"
             >
-              Dynamic Web Magic with Next.js
+              Hello, I&apos;m Meanhor Kea
             </h2>
             <TextGenerateEffect
               className="text-center text-[40px] md:text-5xl lg:text-6xl"
-              words="Transforming Concepts into Seamless User Experiences"
+              words="Data Science & AI, and UI Design"
             />
 
             <p
               className="text-center md:tracking-wider mb-4 text-sm 
             md:text-lg lg:text-2xl"
             >
-              Hi, I&apos;m Meanhor Kea, an Web Developer and UX/UI Design.
+              Experienced programmer with a focus on Python, React.js, HTML, CSS, Next.js, and Tailwind CSS.
             </p>
 
             <a href="#about">
               <MagicButton
-                title="Show My Work"
+                title="Explore My Portfolio"
                 icon={<FaLocationArrow />}
                 position="right"
               />

@@ -47,7 +47,7 @@ function RecentProject() {
                 </div>
                 <div className="flex items-center ml-auto">
                   <p className="flex lg:text-xl md:text-xs text-sm text-purple">
-                    Check Live Site
+                    Check My Github
                   </p>
                   <FaLocationArrow className="ml-3" color="#CBACF9" />
                 </div>
