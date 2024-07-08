@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio Template
+
+This repository contains a personal portfolio website built using Next.js and Tailwind CSS. It serves as a showcase for my skills, projects, and professional experience.
+
+## Table of Contents
+
+- [Hero Section](#hero-section)
+- [Information](#information-section)
+- [Recent Projects](#recent-projects)
+- [Testimonial](#Testimonial)
+- [Experience](#experience)
+- [Approach](#approach)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Hero Section
+
+The `Hero Section` is contain the information about me and determined the skills.
+
+## Information Section
+
+The `Information Section` is contain the detail information of my skills.
+
+## Recent Projects
+
+The `Recent Projects` showcase the project I have done successful. It also the journey that I start to learn web development.
+
+## Testimonial
+
+The `Testimonial` the highlight section from the lecturer and also the customer feedback.
+
+## Experience
+
+The `Experience` the summary work experience that I have working on.
+
+## Approach
+
+The `Approach` the working style that I use as the methodology when working in the colaborate project
 
 ## Getting Started
 
-First, run the development server:
+To get a local copy up and running follow these simple steps.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+### Installation
+
+1. Clone the repo
+   ```sh
+      git clone https://github.com/Meanhor/Portfolio-Next.git
+   ```
+2. Install NPM packages
+   ```sh
+       npm install
+   ```
+
+### Usage
+
+To start the development server and view the template in your browser, run:
+
+```
+    npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
+- NextJS: For building the user interface
+- Tailwind CSS: For styling the application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Technologies Used
+Distributed under the MIT License. See LICENSE for more information.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
